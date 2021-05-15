@@ -14,6 +14,7 @@ This mod is *not yet authorised* by the original mod's creator, so it will remai
 # file-info
 Japanese name | Meaning
 ------------ | -------------
+NPC名 | NPC names.
 アイテム名 | Item names and boss names in reflection menu.
 アイテム説明 | Item descriptions. Contains Ema-related text.
 イベントテキスト | Event prompts. Contains Ema-related text.
