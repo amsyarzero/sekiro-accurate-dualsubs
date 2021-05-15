@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls3</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">Hirata Estate</text>
+<text id="1100">Ashina Outskirts</text>
+<text id="1101">%null%</text>
+<text id="1102">%null%</text>
+<text id="1103">%null%</text>
+<text id="1104">%null%</text>
+<text id="1105">%null%</text>
+<text id="1106">%null%</text>
+<text id="1107">%null%</text>
+<text id="1108">%null%</text>
+<text id="1109">%null%</text>
+<text id="1110">Ashina Castle</text>
+<text id="1111">%null%</text>
+<text id="1112">%null%</text>
+<text id="1113">%null%</text>
+<text id="1114">%null%</text>
+<text id="1115">%null%</text>
+<text id="1116">%null%</text>
+<text id="1117">%null%</text>
+<text id="1118">%null%</text>
+<text id="1119">%null%</text>
+<text id="1120">Ashina Reservoir</text>
+<text id="1300">Abandoned Dungeon</text>
+<text id="1500">Mibu Village</text>
+<text id="1501">%null%</text>
+<text id="1502">%null%</text>
+<text id="1503">%null%</text>
+<text id="1504">%null%</text>
+<text id="1505">%null%</text>
+<text id="1506">%null%</text>
+<text id="1507">%null%</text>
+<text id="1508">%null%</text>
+<text id="1509">%null%</text>
+<text id="1510">Ashina Depths</text>
+<text id="1700">Sunken Valley</text>
+<text id="1701">%null%</text>
+<text id="1702">%null%</text>
+<text id="1703">%null%</text>
+<text id="1704">%null%</text>
+<text id="1705">%null%</text>
+<text id="1706">%null%</text>
+<text id="1707">%null%</text>
+<text id="1708">%null%</text>
+<text id="1709">%null%</text>
+<text id="1710">Sunken Valley Passage</text>
+<text id="2000">Senpou Temple, Mt.  Kongo</text>
+<text id="2500">Fountainhead Palace</text>
+</entries>
+</fmg>
