@@ -1,5 +1,5 @@
 # sekiro-dualsub-translationfix
-Accurate translations for the [Sekiro Dual Subtitles](https://www.nexusmods.com/sekiro/mods/580?tab=files&file_id=2744) mod.
+Accurate translations for the [Sekiro Dual Subtitles](https://www.nexusmods.com/sekiro/mods/580) mod.
 
 This mod is *not yet authorised* by the original mod's creator, so it will remain private for now.
 **DO NOT DISTRIBUTE OR PUBLISH WITHOUT PERMISSION.**
@@ -31,6 +31,7 @@ NPC名 | NPC names.
 # credits
 Thanks to:
 * The Sekiro modding wiki team for persistently writing detailed guides. Seriously, you guys are awesome.
+* kuroko137 for creating the Sekiro Dual Subtitles mod.
 * axismind19 for inspiring me to do an accurate translation mod. Check out his [Inner Demons](https://www.nexusmods.com/sekiro/mods/778) mod!
 * Claude for translating the Japanese terms accurately. 🙇‍♂️
 * TKGP for creating Yabber and UXM, a very very *very* useful tool in Soulsborne modding.
