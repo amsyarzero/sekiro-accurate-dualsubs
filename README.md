@@ -5,6 +5,7 @@ This mod is *not yet authorised* by the original mod's creator, so it will remai
 **DO NOT DISTRIBUTE OR PUBLISH WITHOUT PERMISSION.**
 
 # important-stuff
+* [UXM](https://www.nexusmods.com/sekiro/mods/26)
 * [Yabber](https://www.nexusmods.com/sekiro/mods/42)
 * [Sekiro modding wiki, Strings section](https://github.com/SekiroResurrection/modding-wiki/wiki/Strings)
 * [Sekiro JP/ENG boss names by Claude](https://docs.google.com/spreadsheets/d/1pEIuiY4voM0vc9ZRvYGzstEedqCfkig0QTXFd7ygBPk/edit#gid=1513115419)
@@ -26,3 +27,10 @@ NPC名 | NPC names.
 戦技種別 | Skill/prosthetic descriptions. Contains Ema-related text.
 武器名 | Skill/prosthetic names. Contains Ema-related text.
 武器説明 | Skill/prosthetic descriptions. Contains Ema-related text.
+
+# credits
+Thanks to:
+* The Sekiro modding wiki team for persistently writing detailed guides. Seriously, you guys are awesome.
+* axismind19 for inspiring me to do an accurate translation mod. Check out his [Inner Demons](https://www.nexusmods.com/sekiro/mods/778) mod!
+* Claude for translating the Japanese terms accurately. 🙇‍♂️
+* TKGP for creating Yabber and UXM, a very very *very* useful tool in Soulsborne modding.
